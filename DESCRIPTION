@@ -1,7 +1,7 @@
 Package: getip
 Type: Package
 Title: 'IP' Address 'Lookup'
-Version: 0.1-0
+Version: 0.1-2
 Description: A micro-package for getting your 'IP' address, either the 
     local/internal or the public/external one. Currently only 'IPv4' addresses
     are supported.
@@ -13,8 +13,8 @@ Authors@R: c(person("Drew", "Schmidt", role=c("aut", "cre"), email="wrathematics
 Maintainer: Drew Schmidt <wrathematics@gmail.com>
 RoxygenNote: 7.1.2
 NeedsCompilation: yes
-Packaged: 2021-11-01 15:09:09 UTC; mschmid3
+Packaged: 2022-11-02 12:33:02 UTC; mschmid3
 Author: Drew Schmidt [aut, cre],
   Wei-Chen Chen [aut]
 Repository: CRAN
-Date/Publication: 2021-11-02 15:10:02 UTC
+Date/Publication: 2022-11-02 13:10:23 UTC
