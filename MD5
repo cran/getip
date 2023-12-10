@@ -1,5 +1,5 @@
-3a9502a1f07266e59cf29834d78c257b *ChangeLog
-c6478e0cabcd982ff010874c016f18f2 *DESCRIPTION
+7c911ff58ff29c422ae2154264a81b62 *ChangeLog
+90b0ce584a78ef7653b15fb5663c3a03 *DESCRIPTION
 3577c21edf37ad1c0f69a5831562b6cf *LICENSE
 a2e8eaf3bfbf385b7e15eda700fb45f4 *NAMESPACE
 6484859d6b00e526a03cae0d5c2b833f *R/getip-package.r
@@ -8,7 +8,7 @@ a2e8eaf3bfbf385b7e15eda700fb45f4 *NAMESPACE
 ed4662f89ed43371d200d9e338aab705 *R/ip_external.r
 38f3dbbf3b68a104046b671623853c14 *R/ip_internal.r
 5ec76ebf049e70ae63c9fdd148c3e779 *R/validip.r
-12b80349ae7ad22ac7164b3d04a55a32 *README.md
+1844a155a66c7ff44ed59adf61627828 *README.md
 ae4b58cdccfb181419096e14356c2f24 *cleanup
 2dd5d2cd9a63b1603fbe2945911415d2 *configure
 7822deeaba0328faaecf9464bf6ef366 *configure.ac
@@ -20,10 +20,10 @@ b620ac4d562caac38a55a5f2d00d873a *man/hostname2ip.Rd
 7f00888fb68606e38b798e639d770c6d *src/Makevars.in
 9599b21adee807184fbfb98535917e6e *src/Makevars.win
 f1e5d685b33eb821c51836f641bf4d46 *src/getip_native.c
-ef5a0b79deb8dbda6ce0e5dcc911d0be *src/hostname2ip.c
+e016b7f407db42e197798e6ad6503bdd *src/hostname2ip.c
 a35e05440d6098854f49e78455e89244 *src/include/platform.h
-531e126d0a1fde18833a3edb18827b67 *src/include/reactor.h
-5ec18a9b67ae93809bcdb08f0d72756f *src/ip_internal.c
+5fd45f19447a98d364f6682eb7cf1fa0 *src/include/reactor.h
+014840b2981a9236ca2864d54e8db9b7 *src/ip_internal.c
 37fcf4e636924fcc815944a8201db5f8 *src/validate.c
 98abce6ee324781d2a72229cfddece66 *tests/getip.r
 63b6cf7c13c45f2e4194662d9fe6a8a1 *tests/hostname2ip.r
